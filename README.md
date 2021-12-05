@@ -5,25 +5,25 @@
 
 - 🔭 I’m currently working on **a project named FLY GUI**
 
-- 👨‍💻 All of my projects are available at [..](..)
+- 👨‍💻 All of my projects are available at [Portfolio Soon](..)
 
-- 📝 I regularly write articles on [..](..)
+- 📝 I regularly write articles on [SOON](..)
 
 - 💬 Ask me about **HTML5, CSS3, Java**
 
-- 📫 How to reach me **kucciyeager@gmail.com**
+- 📫 How to reach me - **kucciyeager@gmail.com**
 
 - 📄 Know about my experiences [..](..)
 
-- ⚡ Fun fact **..**
+- ⚡ Fun fact **Yowai mo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/.." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt=".." height="30" width="40" /></a>
-<a href="https://dev.to/,," target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt=",," height="30" width="40" /></a>
+<a href="https://codepen.io/kucciii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt=".." height="30" width="40" /></a>
+<a href="https://dev.to/kucciii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt=",," height="30" width="40" /></a>
 <a href="https://instagram.com/kucciii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kucciii_" height="30" width="40" /></a>
-<a href="https://dribbble.com/,," target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt=",," height="30" width="40" /></a>
-<a href="https://discord.gg/jqVFnHd6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jqVFnHd6" height="30" width="40" /></a>
+<a href="https://dribbble.com/Kucciii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt=",," height="30" width="40" /></a>
+<a href="https://discord.gg/ukCMUqUa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jqVFnHd6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,5 +32,8 @@
 <hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kucciii&show_icons=true&locale=en&layout=compact" alt="kucciii" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kucciii&show_icons=true&locale=en" alt="kucciii" /></p>
+<br>
+<br>
+<br>
+<br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kucciii&show_icons=true&locale=en" alt="kucciii" /></p>
