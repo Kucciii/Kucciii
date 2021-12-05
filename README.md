@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio Soon](..)
 
-- 📝 I regularly write articles on [SOON](..)
-
 - 💬 Ask me about **HTML5, CSS3, Java**
 
 - 📫 How to reach me - **kucciyeager@gmail.com**
