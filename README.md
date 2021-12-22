@@ -29,9 +29,4 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kucciii&show_icons=true&locale=en&layout=compact" alt="kucciii" /></p>
-<br>
-<br>
-<br>
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kucciii&show_icons=true&locale=en" alt="kucciii" /></p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=y388svark1ryhls6yv43kxt3u&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=y388svark1ryhls6yv43kxt3u&redirect=true)
