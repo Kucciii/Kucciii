@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kucciii&label=Profile%20views&color=0e75b6&style=flat" alt="kucciii" /> </p>
 
-- 🔭 I’m currently working on **a project named FLY GUI**
+- 🔭 I’m currently working on **a project named KucciTheBridge**
 
 - 👨‍💻 All of my projects are available at [Portfolio Soon](..)
 
