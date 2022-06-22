@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kucciii&label=Profile%20views&color=0e75b6&style=flat" alt="kucciii" /> </p>
 
-- 🔭 I’m currently working on **a project named KucciTheBridge**
+- 🔭 I’m currently working on a server **StellarCraft**
 
 - 👨‍💻 All of my projects are available at [Portfolio Soon](..)
 
-- 💬 Ask me about **HTML5, CSS3, Java**
+- 💬 Ask me about **HTML5, CSS3, Java, JavaScript**
 
 - 📫 How to reach me - **kucciyeager@gmail.com**
 
 - 📄 Know about my experiences [..](..)
-
-- ⚡ Fun fact **Yowai mo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
