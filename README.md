@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kucci</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kucciii&label=Profile%20views&color=0e75b6&style=flat" alt="kucciii" /> </p>
-
 - 🔭 I’m currently working on a server **StellarCraft**
 
 <h3 align="left">Connect with me:</h3>
