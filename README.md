@@ -5,14 +5,6 @@
 
 - 🔭 I’m currently working on a server **StellarCraft**
 
-- 👨‍💻 All of my projects are available at [Portfolio Soon](..)
-
-- 💬 Ask me about **HTML5, CSS3, Java, JavaScript**
-
-- 📫 How to reach me - **kucciyeager@gmail.com**
-
-- 📄 Know about my experiences [..](..)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/kucciii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt=".." height="30" width="40" /></a>
